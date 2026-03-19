@@ -1,0 +1,3 @@
+Telegram links 
+https://api.telegram.org/bot8363974523:AAGGmbw7gfIUlCnjkYVSBLKXbiShQhA5yGg/getUpdates
+https://api.telegram.org/bot8363974523:AAGGmbw7gfIUlCnjkYVSBLKXbiShQhA5yGg/sendMessage?chat_id=8564196952&text=Eternal%20Test
